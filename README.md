@@ -1,6 +1,6 @@
 Questbound
 
-<img width="1190" height="662" alt="image" src="https://github.com/user-attachments/assets/1c988c0f-a4f2-40cb-a34c-54af3c7d4c62" />
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/11e1a0ec-8e0a-4bf8-8747-f1da0d1636f1" />
 
 Creator
 
