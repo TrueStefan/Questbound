@@ -22,7 +22,7 @@ Installation
     Extract the contents of the compressed file to a folder on your computer.
     Install Unity 2021.3.19f1 version.
     Open the extracted folder and find "The Quest" game.
-    Double-click on "Questborn" game to launch it.
+    Double-click on "Questbound" game to launch it.
     
     Note: This game can be run on either a Windows or a Mac.
     
